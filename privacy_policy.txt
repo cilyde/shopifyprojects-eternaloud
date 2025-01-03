@@ -1,0 +1,67 @@
+This is a ChatGpt generated privacy policy. This is fake because I do not intend to make this application public or keep it for long.
+I am doing this to learn how to publish an app and all the procedures included. Thank you.
+
+
+Privacy Policy for Eternal Oud
+
+Effective Date: 3 December 2025
+Last Updated: 3 December 2025
+
+1. Introduction
+
+Welcome to Eternal Oud (“we,” “our,” “us”). We respect your privacy and are committed to protecting it through this Privacy Policy. This document outlines how we collect, use, and protect your information when you use our app, which is powered by Shopify for backend services.
+
+2. Information We Collect
+
+We collect the following types of information:
+
+a. Personal Information
+	•	Name
+	•	Email Address
+	•	Login Credentials (stored securely)
+	•	Address (for shipping purposes)
+
+b. Non-Personal Information
+	•	Device Information (e.g., OS type, app version)
+	•	IP Address
+	•	App Usage Data (e.g., pages viewed, items added to cart)
+
+c. Payment Information
+	•	Payments are processed securely through Shopify’s payment gateway. We do not store any payment details.
+
+3. How We Use Your Information
+
+We use your information to:
+	•	Process orders and provide the requested services.
+	•	Maintain account security.
+	•	Send order confirmations and status updates.
+	•	Improve the app experience and customer support.
+
+4. Data Sharing and Disclosure
+
+We only share your data under the following circumstances:
+	•	With Shopify: To process your orders and manage the shopping experience.
+	•	Legal Obligations: If required by law, such as compliance with subpoenas or similar legal processes.
+
+5. Data Security
+
+We implement robust security measures to protect your personal data. This includes encryption of sensitive data during transmission and secure storage through Shopify’s backend services.
+
+6. Your Rights
+
+As a user, you have the right to:
+	•	Access and update your account details.
+	•	Delete your account by contacting us.
+	•	Opt-out of non-essential notifications and promotional emails.
+
+7. Third-Party Services
+
+This app integrates Shopify as a backend service provider. Shopify’s privacy policy can be found here. We are not responsible for Shopify’s data practices.
+
+8. Children’s Privacy
+
+Eternal Oud is not intended for use by individuals under the age of 13. If we learn that we have inadvertently collected data from children under 13, we will delete it promptly.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted in the app or on our website, and the updated date will be reflected at the top of this document.
